@@ -69,3 +69,11 @@
 - 如何处理高并发下的点赞功能
 - 如何实现文章分类的缓存策略
 - 以及更多实战案例...
+
+## 扩展阅读
+
+[Ruby高级开发](https://eggman.tv/c/s-ruby-advanced)
+
+[Ruby on Rails高级开发](https://eggman.tv/c/s-rails-advanced)
+
+[Rails实战之B2C商城开发](https://eggman.tv/c/s-master-rails-by-actions)
